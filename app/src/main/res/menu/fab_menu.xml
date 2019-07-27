@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<item-->
+        <!--android:id="@+id/sub1"-->
+        <!--android:icon="@drawable/ic_sub1"-->
+        <!--android:title="" />-->
+
+    <!--<item-->
+        <!--android:id="@+id/sub2"-->
+        <!--android:icon="@drawable/ic_sub2"-->
+        <!--android:title="" />-->
+
+    <!--<item-->
+        <!--android:id="@+id/sub3"-->
+        <!--android:icon="@drawable/ic_pen"-->
+        <!--android:title="" />-->
+
+    <!--<item-->
+        <!--android:id="@+id/sub4"-->
+        <!--android:icon="@drawable/ic_pentool_black"-->
+        <!--android:title="" />-->
+</menu>
